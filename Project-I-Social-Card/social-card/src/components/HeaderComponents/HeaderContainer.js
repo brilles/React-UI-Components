@@ -9,8 +9,10 @@ const HeaderContainer = () => {
   return (
     <div className="header">
       <ImageThumbnail />
-      <HeaderTitle />
-      <HeaderContent />
+      <div className="header-text">
+        <HeaderTitle />
+        <HeaderContent />
+      </div>
     </div>
   );
 };

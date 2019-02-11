@@ -1,1 +1,30 @@
 /* All styles for your header Components live here */
+.header {
+  display: flex;
+  padding: 10px;
+}
+.image > img {
+  width: 45px;
+  margin: 0 6px;
+}
+
+.header-text {
+  display: flex;
+  flex-direction: column;
+  padding: 0 6px;
+  font-size: 0.896rem;
+}
+
+.content {
+  margin: 8px 0;
+  font-size: 0.9rem;
+}
+
+.account-name {
+  font-weight: 600;
+}
+
+.handle-and-date {
+  color: #979ca0;
+  font-size: 0.78rem;
+}
