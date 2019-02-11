@@ -2,9 +2,14 @@
 .card-container {
   margin-left: 73px;
 
+  color: black;
   width: 84%;
   border: 1px solid #eaebed;
   border-radius: 5px;
+}
+
+a {
+  text-decoration: none;
 }
 
 .card-container > .banner > img {
