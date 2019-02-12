@@ -1,0 +1,12 @@
+.calculator-display {
+  text-align: right;
+  background-color: #222222;
+  color: #fff;
+  height: 125px;
+}
+
+.calculator-display > .num {
+  padding-top: 30px;
+  padding-right: 15px;
+  font-size: 4rem;
+}

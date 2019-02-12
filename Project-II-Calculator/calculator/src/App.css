@@ -1,0 +1,24 @@
+.calculator-container {
+  width: 452px;
+  height: 600px;
+  margin: 0 auto;
+  border: 2px solid #979797;
+}
+
+.calculator-container > .input {
+  display: flex;
+}
+
+.calculator-container > .input > .grey-col {
+  width: 100%;
+}
+
+.calculator-container > .input > .grey-col > .row-2,
+.row-3,
+.row-4 {
+  display: flex;
+}
+
+.calculator-container > .input > .red-col {
+  width: 36%;
+}
