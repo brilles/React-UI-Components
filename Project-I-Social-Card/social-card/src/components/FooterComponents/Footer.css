@@ -1,0 +1,15 @@
+.links {
+  display: flex;
+  flex-direction: row;
+  height: 40px;
+  margin-left: 73px;
+}
+svg {
+  width: 20px;
+  margin-top: 20px;
+  margin-right: 60px;
+}
+
+g {
+  fill: #979ca0;
+}
