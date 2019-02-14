@@ -1,0 +1,13 @@
+button {
+  height: 95px;
+  border: 1px solid #979797;
+  text-align: center;
+  font-size: 3rem;
+  width: 100%;
+  background-color: #fff;
+}
+
+.red {
+  background: #a0001e;
+  color: #fff;
+}
